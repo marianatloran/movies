@@ -1,0 +1,21 @@
+.movie-card {
+  display: inline-flex;
+  width: 100%;
+  margin-bottom: 25px;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px 5px rgba(0,0,0,0.3);
+}
+
+.movie-image {
+  width: 40%;
+}
+
+.movie-image img {
+  width: 100%;
+}
+
+.movie-data {
+  width: 60%;
+  margin-left: 25px;
+}
